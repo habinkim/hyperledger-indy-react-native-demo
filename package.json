@@ -10,8 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "dfs": "^0.0.2",
+    "fs": "^0.0.1-security",
     "global": "^4.4.0",
     "indy-sdk-react-native": "^0.2.2",
+    "mkdirp": "^1.0.4",
+    "os": "^0.1.2",
     "prettier": "^2.7.1",
     "react": "17.0.2",
     "react-native": "0.68.2"
